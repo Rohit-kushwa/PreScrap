@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778420720481",
+    "project_id": "prescrap",
+    "storage_bucket": "prescrap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778420720481:android:e3de76bb4d2e8835e22b20",
+        "android_client_info": {
+          "package_name": "com.example.prescrap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778420720481-4k5o9uqq1dc9p8j1nkh0met2tvngu6a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpqTlhlyr1r5VJAkZDmis4YRtF6WjLy1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778420720481-4k5o9uqq1dc9p8j1nkh0met2tvngu6a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
