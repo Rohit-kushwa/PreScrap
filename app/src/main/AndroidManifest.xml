@@ -12,7 +12,16 @@
         android:theme="@style/Theme.PreScrap"
         tools:targetApi="31">
         <activity
-            android:name=".otp_verifcation"
+            android:name=".buy_gallary"
+            android:exported="false" />
+        <activity
+            android:name=".Upload_sell"
+            android:exported="false" />
+        <activity
+            android:name=".Upload"
+            android:exported="false" />
+        <activity
+            android:name=".splash_screen"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,15 +30,14 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".splash_screen"
-            android:exported="false"/>
+            android:name=".MainActivity"
+            android:exported="false" />
         <activity
             android:name=".login"
-            android:exported="false">
-        </activity>
+            android:exported="false" />
         <activity
-            android:name=".MainActivity"
-            android:exported="true" />
+            android:name=".otp_verifcation"
+            android:exported="false" />
 
         <meta-data
             android:name="preloaded_fonts"
